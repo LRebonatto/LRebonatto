@@ -17,4 +17,16 @@
 <p><a href="https://www.buymeacoffee.com/rebonatto"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rebonatto" /></a></p><br><br>
 <br>
 
-![lrebonatto's Stats](https://github-readme-stats.vercel.app/api?username=lrebonatto&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="42%">
+        
+  ![lrebonatto's Stats](https://github-readme-stats.vercel.app/api?username=lrebonatto&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)    
+      </td>
+      <td>
+    ![cyberpunk_space_neon_pixelArt](https://github.com/LRebonatto/LRebonatto/assets/55560467/404fb2e3-55ae-41a6-9797-c085f74c563e)    
+      </td>
+    </tr>
+  </table>
+</div>
