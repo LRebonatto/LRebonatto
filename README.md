@@ -9,6 +9,15 @@
 <img width="100%" alt="header_1" src="https://github.com/LRebonatto/LRebonatto/assets/55560467/0fa6a155-1317-49fe-8951-bc863963950a">
 
 <p align="right">
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/328964" target="_blank" rel="noopener noreferrer nofollow">
+    <img align="left" src="https://github.com/LRebonatto/LRebonatto/assets/55560467/fcc0ce15-5efb-4bf8-8f4b-97d1efe792e2" height="30" alt="beecrowd Rebonatto profile"/>
+  </a>
+  <a href="https://leetcode.com/Rebonatto" target="_blank" rel="noopener noreferrer nofollow">
+    <img align="left" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Rebonatto profile"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/leo_comikevizk" target="_blank" rel="noopener noreferrer nofollow">
+    <img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Rebonatto profile"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=lrebonatto&label=Profile%20views&color=0e75b6&style=flat" alt="lrebonatto" /> 
 </p>
 
