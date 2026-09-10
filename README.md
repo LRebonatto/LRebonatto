@@ -33,25 +33,7 @@
   </a>
 </p>
 
-<h3 align="centr">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rebonatto"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rebonatto" /></a></p><br><br>
 <br>
-
-<div align="center">
-  <table border="0" style="border: none;">
-    <tr>
-      <td width="40%"> 
-        
-  [![lrebonatto's Stats](https://github-readme-stats.vercel.app/api?username=lrebonatto&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](#)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrebonatto&theme=tokyonight&layout=compact&hide_border=true)](#)
-      </td>
-      <td>
-    [![cyberpunk_space_neon_pixelArt](https://github.com/LRebonatto/LRebonatto/assets/55560467/404fb2e3-55ae-41a6-9797-c085f74c563e)](#)
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 <!-- Definitions -->
 
